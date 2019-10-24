@@ -1,0 +1,4 @@
+C:\Users\REBLA\OneDrive\Documents\Entrega 2 capitulo 4\Surveys-0001b7a157521400c48e76661afa7c04dd15c599\Surveys.Droid\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\REBLA\OneDrive\Documents\Entrega 2 capitulo 4\Surveys-0001b7a157521400c48e76661afa7c04dd15c599\Surveys.Droid\obj\Debug\90\build.props
+C:\Users\REBLA\OneDrive\Documents\Entrega 2 capitulo 4\Surveys-0001b7a157521400c48e76661afa7c04dd15c599\Surveys.Droid\obj\Debug\90\adb.props
+C:\Users\REBLA\OneDrive\Documents\Entrega 2 capitulo 4\Surveys-0001b7a157521400c48e76661afa7c04dd15c599\Surveys.Droid\obj\Debug\90\Surveys.Droid.csprojAssemblyReference.cache
